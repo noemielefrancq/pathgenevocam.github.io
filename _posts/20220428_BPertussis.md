@@ -7,7 +7,7 @@ group: news
 
 <img src="/static/img/news/BPertussis_phylo.jpg" alt="BPertussis_phylo" class="img-fluid">
 
-Led by Noémie Lefrancq and Valérie Bouchez, and a collaboration between the Department of Genetics, the Vet School, Institut Pasteur Paris, and the EuPertStrain consortium, a new paper entitled **Global spatial dynamics and vaccine-induced fitness changes of *Bordetella pertussis* ** is out now in [*Science Translational Medicine*](https://www.science.org/doi/10.1126/scitranslmed.abn3253). 
+Led by Noémie Lefrancq and Valérie Bouchez, and a collaboration between the Department of Genetics, the Vet School, Institut Pasteur Paris, and the EuPertStrain consortium, a new paper entitled **Global spatial dynamics and vaccine-induced fitness changes of *Bordetella pertussis*** is out now in [*Science Translational Medicine*](https://www.science.org/doi/10.1126/scitranslmed.abn3253). 
 
 The study was supervised by Sylvain Brisse from Institut Pasteur Paris, and Henrik Salje from Department of Genetics at the University of Cambridge.
 
